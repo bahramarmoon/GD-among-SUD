@@ -283,7 +283,7 @@ forest(m34,xlim=c(0.1,20),print.I2=TRUE,col.random="red",comb.random=TRUE,col.in
 
 
 
-##Article 2 Graph2##
+##Article 2 Graph2###
 library(readxl)
 library(meta)
 Data.Gambling <- read_excel("D:/Analyze/Bahram Armon/Pathological gambling/Gambling_SRD_Final.xlsx", sheet = "OR")
